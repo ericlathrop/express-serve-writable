@@ -13,6 +13,8 @@
     "serve-static": "^1.7.1"
   },
   "devDependencies": {
-    "mocha": "^2.0.1"
+    "fs-mock": "^1.1.2",
+    "mocha": "^2.0.1",
+    "rewire": "^2.1.3"
   }
 }
