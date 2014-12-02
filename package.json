@@ -2,7 +2,7 @@
   "name": "express-serve-writable",
   "version": "0.0.0",
   "description": "Express middleware for writing to the filesystem with PUT/DELETE requests",
-  "main": "index.js",
+  "main": "lib/serve_writable.js",
   "scripts": {
     "build": "npm run lint-js && npm test",
     "lint-js": "bash -c \"jshint lib/*.js\"",
