@@ -1,6 +1,6 @@
 {
   "name": "express-serve-writable",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express middleware for writing to the filesystem with PUT/DELETE requests",
   "main": "lib/serve_writable.js",
   "scripts": {
